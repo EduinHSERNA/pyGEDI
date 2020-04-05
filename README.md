@@ -85,10 +85,10 @@ GEDI01_B_2019217151359_O03661_T02309_02_003_01.h5 | 7.405GB | 24.19%
 Access the following notebooks for each respective product.
 
 Notebook:
-- [GEDI 2A](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/GEDI2_A.ipynb) or [colab](https://colab.research.google.com/drive/17yg17WSpZQr_9Aq2yOHUZumbR-ywM39I)
-- [GEDI 2B](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/GEDI2_B.ipynb) or [colab](https://colab.research.google.com/drive/1KMxx7WdH4t55vHVx61HKRp_97Tc2-Mk4)
-- [WaveForm GEDI 1B,2A,2B](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/GEDI_Waveforms.ipynb) or [colab](https://colab.research.google.com/drive/1NnG21nC6ubioMI6rnlRtYgjAp6lcMX0q)
-- [Demonstrative products](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/Demonstrative%20products.ipynb) or  [colab](https://colab.research.google.com/drive/1LMfL0ssvP1jtWZLdKEZAhl9FOgXXkI8B)
+- [GEDI 2A](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/GEDI2_A.ipynb) or [Colab.research](https://colab.research.google.com/drive/17yg17WSpZQr_9Aq2yOHUZumbR-ywM39I)
+- [GEDI 2B](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/GEDI2_B.ipynb) or [Colab.research](https://colab.research.google.com/drive/1KMxx7WdH4t55vHVx61HKRp_97Tc2-Mk4)
+- [WaveForm GEDI 1B,2A,2B](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/GEDI_Waveforms.ipynb) or [Colab.research](https://colab.research.google.com/drive/1NnG21nC6ubioMI6rnlRtYgjAp6lcMX0q)
+- [Demonstrative products](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/Demonstrative%20products.ipynb) or  [Colab.research](https://colab.research.google.com/drive/1LMfL0ssvP1jtWZLdKEZAhl9FOgXXkI8B)
   
 ## Pendings for v0.2:  
 - Time series.  
