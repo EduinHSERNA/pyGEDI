@@ -90,7 +90,7 @@ Notebook:
 - [WaveForm GEDI 1B,2A,2B](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/GEDI_Waveforms.ipynb) or [Colab.research](https://colab.research.google.com/drive/1NnG21nC6ubioMI6rnlRtYgjAp6lcMX0q)
 - [Demonstrative products](https://github.com/EduinHSERNA/pyGEDI/blob/master/notebook/Demonstrative%20products.ipynb) or  [Colab.research](https://colab.research.google.com/drive/1LMfL0ssvP1jtWZLdKEZAhl9FOgXXkI8B)
   
-## Pendings for v0.2:  
+## Pendings for v0.3:  
 - Time series.  
 - Export data to Google Earth Engine.
 - Analysis for LEVEL 3 gridded canopy height metrics and variability.
@@ -121,7 +121,7 @@ __pyGEDI__ appreciates help from a wide range of different backgrounds. Small im
 
 
 # Citing pyGEDI
-Eduin H.SERNA; Andres Hernandez-Serna. pyGEDI: NASA's Global Ecosystem Dynamics Investigation (GEDI) mission data extraction, analysis, processing and visualization. version 0.1.0, April. 5th 2020, available at: https://pypi.org/project/pyGEDI/
+Eduin H.SERNA; Andres Hernandez-Serna. pyGEDI: NASA's Global Ecosystem Dynamics Investigation (GEDI) mission data extraction, analysis, processing and visualization. version 0.2, April. 5th 2020, available at: https://pypi.org/project/pyGEDI/
 
 
 # Disclaimer
