@@ -21,10 +21,8 @@ __pyGEDI__ has multiple functions for visualization, processing, analysis, and d
 
 
 ## Installation  
-
-Options:  
-- `pip install pyGEDI`  
-- `git clone https://github.com/EduinHSERNA/pyGEDI.git`  
+ 
+- `pip install pyGEDI`   
 
 ## Loading pyGEDI Package
 `from pyGEDI import *`
