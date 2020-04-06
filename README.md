@@ -12,7 +12,7 @@ __pyGEDI__ has multiple functions for visualization, processing, analysis, and d
 - Clipping of your specific area.  
 - Generate multiple files like `.csv`, `.shp`, and `.tif` for GEDI's products.  
 - Visualization of waveforms with canopy height and profile metrics.  
-- Process H5 files.  
+- Process `.h5` files.  
 - Generate histograms, raster’s of different GEDI metrics.  
 - Graph in 3D cloud points.  
 - Demonstrative products (correlation GEDI and Airborne Laser Scanning).
