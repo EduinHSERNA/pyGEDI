@@ -115,8 +115,10 @@ Please report any issue regarding the __pyGEDI__ package to:
 pyGEDI blog forthcoming.
 
 # Call for Contributions
-__pyGEDI__ appreciates help from a wide range of different backgrounds. Small improvements or fixes are always appreciated. Kindly report any issues with labeling or processing. If you are considering larger contributions outside the traditional coding work, please contact us through the mailing list.
+__pyGEDI__ appreciates help from a wide range of different backgrounds. Small improvements or fixes are always appreciated. Kindly report any issues with labeling or processing. If you are considering larger contributions outside the traditional coding work, please contact us through the mailing list.  
 
+# Other functions
+__pyGEDI__ has several functions and is a continuously improved package. If it does not exist in __pyGEDI__ please ask us for a new feature, and depending on the feasibility we will be glad to implement your requested feature.
 
 # Citing pyGEDI
 Eduin H.SERNA; Andres Hernandez-Serna. pyGEDI: NASA's Global Ecosystem Dynamics Investigation (GEDI) mission data extraction, analysis, processing and visualization. version 0.2, April. 5th 2020, available at: https://pypi.org/project/pyGEDI/
