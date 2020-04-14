@@ -120,17 +120,17 @@ def waveForm(shot_number,fileh5):
     beam=getBeam(shot_number,fileh5)    
     shot_number_id=list(fileh5[beam]['shot_number'][:]).index(shot_number)
 
-    elevation_bin0=fileh5[beam]['geolocation/elevation_bin0']
-    elevation_lastbin=fileh5[beam]['geolocation/elevation_lastbin']
-    rx_sample_count=fileh5[beam]['rx_sample_count']
-    rx_sample_start_index=fileh5[beam]['rx_sample_start_index']
+    elevation_bin0=fileh5[beam]['geolocation/elevation_bin0'][()]
+    elevation_lastbin=fileh5[beam]['geolocation/elevation_lastbin'][()]
+    rx_sample_count=fileh5[beam]['rx_sample_count'][()]
+    rx_sample_start_index=fileh5[beam]['rx_sample_start_index'][()]
     
     rx_sample_start_index_n=rx_sample_start_index-min(rx_sample_start_index)+1
 
     rx_sample_start=int(rx_sample_start_index_n[shot_number_id])
     rx_sample_end=int(rx_sample_start_index_n[shot_number_id] + rx_sample_count[shot_number_id]-1)
     
-    rxwaveform=fileh5[beam]['rxwaveform'][rx_sample_start:rx_sample_end]
+    rxwaveform=fileh5[beam]['rxwaveform'][rx_sample_start:rx_sample_end][()]
     
     elevation_bin0_i=elevation_bin0[shot_number_id]
     elevation_lastbin_i=elevation_lastbin[shot_number_id]
