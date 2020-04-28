@@ -22,11 +22,11 @@ __pyGEDI__ has multiple functions for visualization, processing, analysis, and d
 
 ## Dependencies
 
-1. `numpy`  
-2. `gdal`
-3. `h5py`
-4. `pandas`
-5. `matplotlib`
+- `numpy`  
+- `gdal`
+- `h5py`
+- `pandas`
+- `matplotlib`
 
 
 ## Installation  
