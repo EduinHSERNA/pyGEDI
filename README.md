@@ -20,6 +20,15 @@ __pyGEDI__ has multiple functions for visualization, processing, analysis, and d
 ![https://github.com/EduinHSERNA/pyGEDI/blob/master/blog/graphics.jpeg](https://github.com/EduinHSERNA/pyGEDI/blob/master/blog/graphics.jpeg)
 
 
+## Dependencies
+
+1. `numpy`  
+2. `gdal`
+3. `h5py`
+4. `pandas`
+5. `matplotlib`
+
+
 ## Installation  
  
 - `pip install pyGEDI`   
