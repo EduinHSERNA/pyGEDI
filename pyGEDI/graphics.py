@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 try:
-	import gdal
+	from osgeo import gdal
 except ImportError:
 	sys.exit("""You need following module: gdal """)
 
